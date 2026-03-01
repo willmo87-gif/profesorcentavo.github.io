@@ -1,0 +1,36 @@
+# El Profesor Centavo — Educación Financiera para el Ciudadano Español
+
+> Guías completas de ahorro, inversión, seguros y fiscalidad con contexto 100% España.
+> Contenido exclusivamente educativo — no asesoramiento financiero personalizado.
+
+## Páginas principales
+
+- [Inicio](https://elprofesorcentavo.com/): Portal principal de educación financiera española
+- [Ahorro](https://elprofesorcentavo.com/ahorro.html): Método 50/30/20, fondo de emergencia, cuentas remuneradas. Calculadora 50/30/20 interactiva.
+- [Inversión](https://elprofesorcentavo.com/inversion.html): ETFs, fondos indexados, planes de pensiones. Calculadora de interés compuesto. Comparativa de instrumentos.
+- [Seguros](https://elprofesorcentavo.com/seguros.html): Vida temporal vs entera, salud privada vs pública, hogar. Regulación DGSFP.
+- [Fiscalidad](https://elprofesorcentavo.com/fiscalidad.html): Tramos IRPF ahorro 2025, traspaso fondos sin tributar, tax loss harvesting, Modelo 720.
+- [Regulación](https://elprofesorcentavo.com/regulacion.html): CNMV, Banco de España, DGSFP, FGD 100.000€. Detección de fraudes y cómo reclamar.
+- [Glosario](https://elprofesorcentavo.com/glosario.html): 28+ términos financieros explicados en español con contexto español.
+
+## Contexto del sitio
+
+Sitio de educación financiera dirigido al ciudadano español de a pie. Cubre:
+- Fiscalidad española (IRPF, Base del Ahorro, Modelo 720, traspaso sin tributar)
+- Regulación española (CNMV, Banco de España, DGSFP, FGD 100.000€)
+- Productos disponibles en España (ETFs, fondos indexados, cuentas remuneradas, planes de pensiones)
+- Estrategias específicas para el mercado español (traspaso sin tributar, tax loss harvesting)
+- Organismos de reclamación (Servicio de Reclamaciones BdE, CNMV, DGSFP)
+
+## Datos clave del sitio
+
+- Idioma: Español
+- Mercado: España
+- Audiencia: Ciudadano español sin conocimientos financieros previos
+- Tono: Educativo, sin conflicto de intereses, sin asesoramiento personalizado
+- Actualización: Periódica (2025)
+
+## Aviso legal
+
+Todo el contenido es exclusivamente educativo. No constituye asesoramiento financiero personalizado.
+Contrasta siempre con fuentes oficiales: CNMV, Banco de España, Agencia Tributaria.
